@@ -1,0 +1,63 @@
+{
+    "beige_book": [
+        {
+            "name": "BeigeBook_20260114.pdf",
+            "date": "2026-01-14",
+            "title": "The Beige Book - January 2026"
+        },
+        {
+            "name": "BeigeBook_20260304.pdf",
+            "date": "2026-03-04",
+            "title": "The Beige Book - March 2026"
+        },
+        {
+            "name": "BeigeBook_20260415.pdf",
+            "date": "2026-04-15",
+            "title": "The Beige Book - April 2026"
+        },
+        {
+            "name": "BeigeBook_20260603.pdf",
+            "date": "2026-06-03",
+            "title": "The Beige Book - June 2026"
+        }
+    ],
+    "fomc_minutes": [
+        {
+            "name": "fomcminutes20260128.pdf",
+            "date": "2026-01-28",
+            "title": "Minutes of the Federal Open Market Committee - January 2026"
+        },
+        {
+            "name": "fomcminutes20260318.pdf",
+            "date": "2026-03-18",
+            "title": "Minutes of the Federal Open Market Committee - March 2026"
+        },
+            {
+            "name": "fomcminutes20260429.pdf",
+            "date": "2026-04-29",
+            "title": "Minutes of the Federal Open Market Committee - April 2026"
+        }
+    ],
+    "monetary_policy":[
+        {
+            "name": "monetary20260128a1.pdf",
+            "date": "2026-01-28",
+            "title": "Federal Reserve Press Release - January 2026"
+        },
+        {
+            "name": "monetary20260318a1.pdf",
+            "date": "2026-03-18",
+            "title": "Federal Reserve Press Release - March 2026"
+        },
+        {
+            "name": "monetary20260429a1.pdf",
+            "date": "2026-04-29",
+            "title": "Federal Reserve Press Release - April 2026"
+        },
+        {
+            "name": "monetary20260617a1.pdf",
+            "date": "2026-06-17",
+            "title": "Federal Reserve Press Release - June 2026"
+        }
+    ]
+}
